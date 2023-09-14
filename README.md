@@ -1,7 +1,7 @@
 # QuasarUI-Impact-Subpack
 This extension serves as a complement to the Impact Pack, offering features that are not deemed suitable for inclusion by default in the QuasarUI Impact Pack
 
-The nodes in this repository cannot be used standalone and depend on [QuasarUI-Impact-Pack](https://github.com/ltdrdata/QuasarUI-Impact-Pack).
+The nodes in this repository cannot be used standalone and depend on QuasarUI.
 
 ## Nodes
 * UltralyticsDetectorProvider - This node provides an object detection detector based on Ultralystics.
@@ -10,7 +10,7 @@ The nodes in this repository cannot be used standalone and depend on [QuasarUI-I
 
 ## Credits
 
-QuasarUI/[QuasarUI](https://github.com/quasaranonymous/QuasarUI) - A powerful and modular stable diffusion GUI.
+QuasarUI/[QuasarUI](https://github.com/notBradPitt/QuasarUI) - A powerful and modular stable diffusion GUI.
 
 Bing-su/[adetailer](https://github.com/Bing-su/adetailer/) - This repo sitoryprovides an object detection model and features based on Ultralystics.
 
