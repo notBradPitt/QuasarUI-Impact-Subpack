@@ -1,1 +1,2 @@
-ultralytics!=8.0.177
+matplotlib==3.8
+ultralytics!=8.2.5
